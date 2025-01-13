@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tiktak-premium.github.io/tiktok-mod-apk-for-low-end-android-devices/sitemap.xml
